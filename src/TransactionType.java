@@ -1,3 +1,4 @@
-public enum TransactionType {DEPOSIT,WITHDRAWAL
+public enum TransactionType {
+    DEPOSIT,WITHDRAWAL
 
 }
